@@ -16,7 +16,7 @@ fn test_variable() {
 
 #[test]
 fn test_variable_mutable() {
-    let mut name: &str = "Frasiska Risma Yolanda";
+    let mut name: &str = "Erlin Novasia";
     println!("Hello, {}", name);
 
     name = "Eyyyinnn Nopasiaaa 😹";
