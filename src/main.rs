@@ -19,7 +19,7 @@ fn test_variable_mutable() {
     let mut name: &str = "Erlin Novasia";
     println!("Hello, {}", name);
 
-    name = "Eyyyinnn Nopasiaaaaaaaaaa 😹";
+    name = "Eyyyinnn Nopasiaaaaaaaaaaa 😹";
     println!("Hello, {}", name)
 }
 
