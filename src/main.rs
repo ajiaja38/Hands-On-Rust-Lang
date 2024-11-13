@@ -4,7 +4,7 @@ fn main() {
 
 #[test]
 fn hello_test() {
-    println!("Hello test!");
+    println!("Hello testing!");
 } 
 
 #[test]
